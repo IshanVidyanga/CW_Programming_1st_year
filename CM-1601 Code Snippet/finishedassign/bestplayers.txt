@@ -1,0 +1,206 @@
+---------
+Best batsman : Ravindra Jadeja , Scored : 136
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Shakib Al Hasan , Scored : 41
+Best bowler : Shakib Al Hasan , Wickets : 2
+---------
+Best batsman : Isuru Udana , Scored : 61
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Virat Kohli(C) , Scored : 82
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Andre Russell , Scored : 91
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Ewin Lewis , Scored : 71
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Moeen Ali , Scored : 133
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Fakhar Zahman , Scored : 103
+Best bowler : Mitchell Marsh , Wickets : 3
+---------
+Best batsman : Marcos Stoinis , Scored : 79
+Best bowler : Aiden Markram , Wickets : 4
+---------
+Best batsman : Jos Buttler(WK) , Scored : 149
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Dawid Malan , Scored : 97
+Best bowler : Aiden Markram , Wickets : 4
+---------
+Best batsman : David Miller , Scored : 106
+Best bowler : Shoaib Malik , Wickets : 3
+
+
+###########
+Best batsman of the tournament : Jos Buttler(WK), Scored : 149
+Best Bowler of the tournament : Hardik Pandya, Wickets : 4
+#########---------
+Best batsman : Rishabh Pant(WK) , Scored : 83
+Best bowler : Dasun Shanaka(C) , Wickets : 3
+---------
+Best batsman : Kusal Perera(WK) , Scored : 96
+Best bowler : Dasun Shanaka(C) , Wickets : 3
+---------
+Best batsman : Nicholas Pooran(WK) , Scored : 839
+Best bowler : Dasun Shanaka(C) , Wickets : 3
+---------
+Best batsman : Ravindra Jadeja , Scored : 88
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Kieron Pollard(C) , Scored : 60
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Soumya Sakar , Scored : 98
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Dawid Malan , Scored : 97
+Best bowler : Moeen Ali , Wickets : 3
+---------
+Best batsman : Mohamad Rizwan(WK) , Scored : 117
+Best bowler : Mitchell Marsh , Wickets : 3
+---------
+Best batsman : Steve Smith , Scored : 99
+Best bowler : Aiden Markram , Wickets : 4
+---------
+Best batsman : Mohamad Rizwan(WK) , Scored : 115
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Rasie van Dussen , Scored : 108
+Best bowler : Aiden Markram , Wickets : 4
+---------
+Best batsman : Babar Azam(C) , Scored : 147
+Best bowler : Aiden Markram , Wickets : 4
+
+
+###########
+Best batsman of the tournament : Jos Buttler(WK), Scored : 149
+Best Bowler of the tournament : Hardik Pandya, Wickets : 4
+#########---------
+Best batsman : Dasun Shanaka(C) , Scored : 87
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Mahedi Hassan , Scored : 75
+Best bowler : Shakib Al Hasan , Wickets : 3
+---------
+Best batsman : Isuru Udana , Scored : 89
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Shakib Al Hasan , Scored : 70
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Shimron Hetmyer , Scored : 74
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Ewin Lewis , Scored : 98
+Best bowler : Shakib Al Hasan , Wickets : 3
+---------
+Best batsman : Mitchell Marsh , Scored : 106
+Best bowler : Moeen Ali , Wickets : 3
+---------
+Best batsman : Shoaib Malik , Scored : 49
+Best bowler : Mitchell Marsh , Wickets : 2
+---------
+Best batsman : Aaron Finch(C) , Scored : 115
+Best bowler : Aiden Markram , Wickets : 3
+---------
+Best batsman : Imad Wasim , Scored : 108
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Rasie van Dussen , Scored : 39
+Best bowler : Aiden Markram , Wickets : 3
+---------
+Best batsman : Reeza Hendricks , Scored : 102
+Best bowler : Aiden Markram , Wickets : 4
+
+
+###########
+Best batsman of the tournament : Jos Buttler(WK), Scored : 149
+Best Bowler of the tournament : Hardik Pandya, Wickets : 4
+#########---------
+Best batsman : Kusal Perera(WK) , Scored : 90
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Wanindu Hasaranga , Scored : 85
+Best bowler : Shakib Al Hasan , Wickets : 3
+---------
+Best batsman : Kusal Perera(WK) , Scored : 122
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Liton Das , Scored : 73
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Rohit Sharma , Scored : 78
+Best bowler : Hardik Pandya , Wickets : 3
+---------
+Best batsman : Shakib Al Hasan , Scored : 133
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Adam Zampa , Scored : 75
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Mathew Wade(WK) , Scored : 67
+Best bowler : Shoaib Malik , Wickets : 3
+---------
+Best batsman : Steve Smith , Scored : 74
+Best bowler : Aiden Markram , Wickets : 3
+---------
+Best batsman : Mohamed Hafeez , Scored : 145
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Chris Woakes , Scored : 65
+Best bowler : Aiden Markram , Wickets : 4
+---------
+Best batsman : Mohamad Rizwan(WK) , Scored : 141
+Best bowler : Aiden Markram , Wickets : 4
+
+
+###########
+Best batsman of the tournament : Jos Buttler(WK), Scored : 149
+Best Bowler of the tournament : Hardik Pandya, Wickets : 4
+#########---------
+Best batsman : Ravindra Jadeja , Scored : 92
+Best bowler : Dasun Shanaka(C) , Wickets : 3
+---------
+Best batsman : Soumya Sakar , Scored : 74
+Best bowler : Dasun Shanaka(C) , Wickets : 3
+---------
+Best batsman : Kusal Perera(WK) , Scored : 74
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Ravindra Jadeja , Scored : 112
+Best bowler : Shakib Al Hasan , Wickets : 3
+---------
+Best batsman : Rohit Sharma , Scored : 138
+Best bowler : Hardik Pandya , Wickets : 4
+---------
+Best batsman : Mahedi Hassan , Scored : 83
+Best bowler : Chris Gayle , Wickets : 3
+---------
+Best batsman : Eoin Morgan(C) , Scored : 136
+Best bowler : Mitchell Marsh , Wickets : 3
+---------
+Best batsman : Fakhar Zahman , Scored : 109
+Best bowler : Shoaib Malik , Wickets : 3
+---------
+Best batsman : Mitchell Marsh , Scored : 41
+Best bowler : Aiden Markram , Wickets : 3
+---------
+Best batsman : Joy Roy , Scored : 89
+Best bowler : Shoaib Malik , Wickets : 3
+---------
+Best batsman : Jos Buttler(WK) , Scored : 73
+Best bowler : Moeen Ali , Wickets : 4
+---------
+Best batsman : Shoaib Malik , Scored : 150
+Best bowler : Aiden Markram , Wickets : 4
+
+
+###########
+Best batsman of the tournament : Shoaib Malik, Scored : 150
+Best Bowler of the tournament : Hardik Pandya, Wickets : 4
+#########
